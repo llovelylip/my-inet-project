@@ -1,0 +1,150 @@
+/* CSS Document */
+
+#menu-top {
+	background:url(images/gamemobile-backmenutop.gif) top left repeat-x;
+	height:59px;
+	width:564px;
+}
+
+#menu-top div a {
+	font: bold 12px Verdana, Arial, Helvetica, sans-serif;
+	color:#000000;
+	text-decoration:none;
+}
+
+#menu-top div a:hover {color:#999999;}
+
+.both {clear:both;}
+
+.titlegray {
+	background:url(images/gamemobile-titlegray.gif) top left no-repeat; 
+	height:33px;
+	text-align:center;
+}
+
+.titlegray div {
+	font: bold 14px Verdana, Arial, Helvetica, sans-serif;
+	color:#000000;
+	padding:8px 0 0 0;
+}
+
+.menugray {
+	font:normal 13px Verdana, Arial, Helvetica, sans-serif;
+	background-color:#e9e9e9;
+	border-top:1px solid #FFFFFF;
+	padding-top:5px;
+    width:200px;
+	border-bottom:1px solid #dadada;
+	height:25px;
+	text-align:left;
+}
+
+.menugray:hover {
+	background-color:#e4e1e1;
+}
+
+.menugray a {
+	color:#363636;
+	text-decoration:none;
+}
+
+.menugray a:hover {
+	text-decoration:underline;
+}
+
+.gioithieu1game {
+	font:normal 11px Verdana, Arial, Helvetica, sans-serif;
+	color:#000000;
+	background:url(images/gamemobile-nen1game.gif) top left no-repeat;
+	height:182px;
+	text-align:left;
+}
+.ten1game{
+	background:url(images/gamemobile-ten1game.gif) top left no-repeat;
+	height:36px;
+	text-align:left;
+}
+.tengame {
+	font:bold 11px Verdana, Arial, Helvetica, sans-serif;
+	color:#1d8a0d;
+	text-decoration:none;
+}
+
+.tengame:hover {
+	text-decoration:underline;
+}
+
+#nen-search {
+	font:bold 12px Verdana, Arial, Helvetica, sans-serif;
+	background:url(images/gamemobile-nensearch.gif) top left no-repeat;
+	color:#363636;
+	height:259px;
+	padding-bottom:5px;
+}
+
+.boxselect {
+	font:normal 11px Verdana, Arial, Helvetica, sans-serif;
+	color:#363636;
+	width:184px;
+	height:22px;
+}
+
+.titlegreen {
+	font:bold 12px Verdana, Arial, Helvetica, sans-serif;
+	background:url(images/gamemobile-titlegreen.gif) top left no-repeat;
+	color:#FFFFFF;
+	height:32px;
+	text-align:center;
+}
+
+.title-center {
+	font:bold 13px Verdana, Arial, Helvetica, sans-serif;
+	background:url(images/gamemobile-nentitlecenter.gif) top left repeat-x;
+	color:#636363;
+	height:33px;
+	text-align:left;
+}
+.title-center a{
+	color:#636363;
+	height:33px;
+	text-decoration: none;
+}
+.title-center a hover{
+	color:#636363;
+	height:33px;
+	text-decoration: none;
+}
+.boder-pic {border:3px solid #FFFFFF;}
+
+.GTgame-center {
+	font:normal 11px Verdana, Arial, Helvetica, sans-serif;
+	background-color:#f3f3f3;
+	width:250px;
+	float:left;
+	text-align:left;
+}
+
+.break {padding:10px;}
+
+.text-gray {
+	font:normal 12px Verdana, Arial, Helvetica, sans-serif;
+	color:#636363;
+	line-height:18px;
+	text-decoration:none;
+}
+
+
+.noidungchitiet {
+	font:normal 12px Verdana, Arial, Helvetica, sans-serif;
+	color:#333333;
+	text-align:left;
+}
+
+.cuphap {
+	font:normal 12px Verdana, Arial, Helvetica, sans-serif;
+	color:#000000;
+	background-color:#f3f3f3;
+	line-height:16px;
+	height:200px;
+	text-align:left;
+}
